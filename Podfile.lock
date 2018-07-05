@@ -1,0 +1,38 @@
+PODS:
+  - Masonry (1.1.0)
+  - pop (1.0.10)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - Toast (3.1.0)
+  - YBPopupMenu (1.1.2)
+
+DEPENDENCIES:
+  - Masonry (= 1.1.0)
+  - pop (= 1.0.10)
+  - ReactiveCocoa (= 2.5)
+  - Toast (= 3.1.0)
+  - YBPopupMenu (= 1.1.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+    - pop
+    - ReactiveCocoa
+    - Toast
+    - YBPopupMenu
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  pop: 82ca6b068ce9278fd350fd9dd09482a0ce9492e6
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  Toast: 14a93686d6c8bfe2727afd342414e35660a8a1f3
+  YBPopupMenu: 6efb286385d95ba5f97c58b8464ec873645e8764
+
+PODFILE CHECKSUM: 07b1b177c3c8d490bda96102dd2bd1acbb58ddd3
+
+COCOAPODS: 1.5.3
